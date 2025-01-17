@@ -1,0 +1,4 @@
+[tools]
+go = "1.23.4"
+opentofu = "1.9.0"
+terragrunt = "0.72.2"
